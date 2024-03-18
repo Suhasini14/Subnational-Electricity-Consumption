@@ -1,6 +1,6 @@
 # Subnational Electricity and Gas Consumption
 
-## I have completed this project as part of Level 3 Boot skills camp from CAmbridge Spark.
+## I have completed this project as part of Level 3 Boot skills camp from Cambridge Spark.
 My objective is to:
 Find the total electricity consumption with standard meters and E7 meters region-wise.
 Determine electrical consumption from 2011 to 2021.
